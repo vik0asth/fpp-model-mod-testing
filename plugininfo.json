@@ -1,0 +1,18 @@
+{
+	"repoName": "fpp-plugin-ModelTestingMod",
+	"name": "Model Testing Mod",
+	"author": "Vik0Asth",
+	"description": "The Viewer Control plugin allows your viewers to interact with your display via a personalized web page at ControlMyLights.com.  Viewers can request or vote for songs to play on your display.",
+	"homeURL": "https://github.com/vik0asth/fpp-model-mod-testing",
+	"srcURL": "https://github.com/vik0asth/fpp-model-mod-testing.git",
+	"bugURL": "https://github.com/vik0asth/fpp-model-mod-testing/issues",
+	"allowUpdates": 1,
+	"versions": [
+		{
+			"minFPPVersion": 5.5,
+			"maxFPPVersion": 0,
+			"branch": "master",
+			"sha": ""
+		}
+	]
+}
